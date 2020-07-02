@@ -1,0 +1,3 @@
+CREATE TABLESPACE sistemjual07022
+datafile 'E:\Praktikum BasisData\modul1\sistemjual07022.dbf'
+size 30M;

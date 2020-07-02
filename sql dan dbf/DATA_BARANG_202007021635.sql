@@ -1,0 +1,16 @@
+INSERT INTO ALIFIYAHS_07022.DATA_BARANG (ID_BARANG,ID_JENIS,NAMA_BARANG,HARGA,SATUAN) VALUES 
+(1,1,'Kerupuk ikan',15000,250)
+,(2,2,'Wafer roll',15000,250)
+,(3,1,'Kacang Polong',20000,500)
+,(4,1,'Stik Keju',17000,250)
+,(5,1,'Kacang Polong',20000,250)
+,(6,3,'Singkong Balado',20000,250)
+,(7,2,'Kuping Gajah',15000,250)
+,(8,1,'Marning',17000,250)
+,(9,1,'jagung singapur',20000,250)
+,(10,2,'Stik',15000,250)
+;
+INSERT INTO ALIFIYAHS_07022.DATA_BARANG (ID_BARANG,ID_JENIS,NAMA_BARANG,HARGA,SATUAN) VALUES 
+(11,3,'kripik Singkong',15000,500)
+,(12,1,'Sumpia Abon',20000,500)
+;

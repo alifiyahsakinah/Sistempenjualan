@@ -1,0 +1,4 @@
+CREATE USER alifiyahs_07022
+IDENTIFIED BY alifiyah
+DEFAULT TABLESPACE sistemjual07022
+QUOTA 30M ON sistemjual07022;
